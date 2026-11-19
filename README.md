@@ -2,7 +2,7 @@
 
 一个把指定文字变成写实玻璃霓虹灯招牌的 Codex Skill。默认使用深棕近黑的墙面、暖白灯管和琥珀橙光晕，保留固定夹和电线细节。
 
-![Merry christmas 霓虹灯招牌示例](examples/merry-christmas.png)
+![Merry christmas 霓虹灯招牌示例](https://raw.githubusercontent.com/midboss1028-beep/neon-sign-text/main/examples/merry-christmas.png)
 
 ## 安装
 
